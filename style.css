@@ -1,0 +1,29 @@
+h1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    font-style: Verdana;
+    font-size: 72px;
+    text-align: center;
+}
+h2 {
+    font-size: 34;
+    text-align: center;
+    text-decoration: wavy;
+
+}
+header,
+footer {
+    background-color: antiquewhite;
+    text-align: center;
+}
+.image {
+width: auto;
+height: 500px;
+    
+}
+.button {
+background-color: rgb(163, 226, 177);
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}

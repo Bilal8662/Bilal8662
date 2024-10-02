@@ -1,0 +1,11 @@
+h1 {
+    font-size: 72px;
+}
+h1{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    font-family: Verdana;
+    font-size: 72;
+    text-align: center;
+}
